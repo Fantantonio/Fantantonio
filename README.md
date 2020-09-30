@@ -85,8 +85,4 @@
 
 <img align="left" alt="Fantantonio GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fantantonio&show_icons=true&hide_border=true" >
 <br>
-
----
-
-<br>
 <br>
