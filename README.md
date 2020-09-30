@@ -8,24 +8,24 @@
 * 📆 2021 Goals: Get the degree and make working experiences
 * 🏅 Fun fact: I won four World Championships medals and I've been two times European and National Champion (Inline Figure Skating)
 
-### Connect with me:
+### ✉️ Connect with me:
 
 [<img alt="Fantantonio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">](https://www.youtube.com/channel/UC1nY3r2ua2XbtWBBJk3Ki-w)
 [<img alt="Fantantonio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/AntonioPanfili)
 [<img alt="Fantantonio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/antonio-panfili/)
 [<img alt="Fantantonio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/antonio_panfili/)
 [<img alt="Fantantonio | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg">](https://www.tiktok.com/@apfantantonio)
-
 <br>
-- - -
+
+---
 
 ### 📺 Latest Project
 
 <img alt="COVIDEO" width="18px" src="https://www.covideo.it/img/favicon/android-icon-48x48.png"> [COVIDEO](https://www.covideo.it)
 
-- - -
+---
 
-### Languages and Tools currently working with:
+### 📕 Languages and Tools currently working with:
 
 * <img alt="Visual Studio Code" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> Visual Studio Code
 * <img alt="JavaScript" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript
@@ -40,9 +40,9 @@
 * <img alt="LaTeX" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"> LaTeX
 * <img alt="Git" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git
 
-- - -
+---
 
-### Languages and Tools used in past projects:
+### 📚 Languages and Tools used in past projects:
 
 * <img alt="Chart.js" width="18px" src="https://avatars1.githubusercontent.com/u/10342521?s=200&amp;v=4"> Chart.js
 * <img alt="p5.js" width="18px" src="https://p5js.org/assets/img/p5js.svg"> p5.js
@@ -72,14 +72,21 @@
 * <img alt="KDEnlive" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Kdenlive_new_logo.png"> KDEnlive
 * <img alt="Audacity" width="18px" src="https://avatars3.githubusercontent.com/u/11648186?s=200&amp;v=4"> Audacity
 
-- - -
+---
 
-### Certificates
+### 📜 Certificates
 
 [Harvard University: CS50's Web Programming with Python and Javascript](https://certificates.cs50.io/e1d8f6f8-5449-49e3-ab33-691d58eeed01.pdf?size=letter)<br>
 [Udemy: Game Development/Art - Create a 2D Action Game with Unity/C#](ude.my/UC-0L8HOEXK)
 
-- - -
+---
+
+###  📊 Public contribute
+
+<img align="left" alt="Fantantonio GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fantantonio&show_icons=true&hide_border=true" >
+<br>
+
+---
 
 <br>
 <br>
