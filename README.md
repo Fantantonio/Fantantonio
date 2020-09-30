@@ -84,6 +84,6 @@
 ###  📊 Public contribute
 
 <img align="center" alt="Fantantonio GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fantantonio&show_icons=true&hide_border=true" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&hide=html" alt="carloscccs" />
+<img align="center" alt="Fantantonio GitHub most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&hide=html" />
 <br>
 <br>
