@@ -76,7 +76,7 @@
 
 ### Certificates
 
-[Harvard University: CS50's Web Programming with Python and Javascript](https://certificates.cs50.io/e1d8f6f8-5449-49e3-ab33-691d58eeed01.pdf?size=letter)
+[Harvard University: CS50's Web Programming with Python and Javascript](https://certificates.cs50.io/e1d8f6f8-5449-49e3-ab33-691d58eeed01.pdf?size=letter)<br>
 [Udemy: Game Development/Art - Create a 2D Action Game with Unity/C#](ude.my/UC-0L8HOEXK)
 
 - - -
