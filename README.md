@@ -21,6 +21,7 @@
 
 ### 📺 Latest Project
 
+[Emoji-List-Unicode](https://github.com/Fantantonio/Emoji-List-Unicode) <br>
 <img alt="RSS Notifier" width="18px" src="https://github.com/Fantantonio/rss_notifier/blob/master/asset/img/logo.png?raw=true"> [RSS Notifier](https://github.com/Fantantonio/rss_notifier) <br>
 <img alt="COVIDEO" width="18px" src="https://www.covideo.it/img/favicon/android-icon-48x48.png"> [COVIDEO](https://www.covideo.it)<br>
 <img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/img/favicons/favicon.ico"> [PAISM](http://www.artisticoinlinesanmarco.it)
