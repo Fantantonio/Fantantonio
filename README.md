@@ -2,11 +2,11 @@
 
 ### I'm a Developer, figure skater Coach and Athlete
 
-* 💻 I’m currently working on a Node.js + NW.js project
+* 💻 I’m currently working on a big Node.js + NW.js project
 * 🎓 I’m currently completing my bachelor degree at Ca' Foscari University of Venice
 * 🤝 I’m looking to collaborate with other developers
 * 📆 2021 Goals: Get the degree and make working experiences
-* 🏅 Fun fact: I won four World Championships medals and I've been two times European and National Champion (Inline Figure Skating)
+* 🏅 Fun fact: I won four World Championships medals and I'm two times European and National Champion (Inline Figure Skating)
 
 ### ✉️ Connect with me:
 
@@ -21,7 +21,7 @@
 
 ### 📺 Latest Project
 
-[Emoji-List-Unicode](https://github.com/Fantantonio/Emoji-List-Unicode) <br>
+😄 [Emoji List Unicode](https://github.com/Fantantonio/Emoji-List-Unicode) <br>
 <img alt="RSS Notifier" width="18px" src="https://github.com/Fantantonio/rss_notifier/blob/master/asset/img/logo.png?raw=true"> [RSS Notifier](https://github.com/Fantantonio/rss_notifier) <br>
 <img alt="COVIDEO" width="18px" src="https://www.covideo.it/img/favicon/android-icon-48x48.png"> [COVIDEO](https://www.covideo.it)<br>
 <img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/img/favicons/favicon.ico"> [PAISM](http://www.artisticoinlinesanmarco.it)
