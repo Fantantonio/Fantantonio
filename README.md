@@ -1,6 +1,6 @@
 ## Hi there, I'm Antonio Panfili - aka Fantantonio 👋
 
-### I'm a Developer, figure skater Coach and Athlete
+### I'm a Developer, figure skating Coach and Athlete
 
 * 💻 I’m currently working on a big Node.js + NW.js project
 * 🎓 I’m currently completing my bachelor degree at Ca' Foscari University of Venice
