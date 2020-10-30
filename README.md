@@ -2,7 +2,7 @@
 
 ### I'm a Developer, figure skating Coach and Athlete
 
-* 💻 I’m currently working on a big Node.js + NW.js project
+* 💻 I’m currently working on a big Node.js + NW.js + NeDB project
 * 🎓 I’m currently completing my bachelor degree at Ca' Foscari University of Venice
 * 🤝 I’m looking to collaborate with other developers
 * 📆 2021 Goals: Get the degree and make working experiences
@@ -41,10 +41,9 @@
 * <img alt="CSS3" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS
 * <img alt="Git" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git
 * <img alt="HTML5" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML
-* <img alt="JSON" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"> JSON
 * <img alt="JavaScript" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript
-* <img alt="JQuery" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"> JQuery
 * <img alt="LaTeX" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"> LaTeX
+* <img alt="NeDB" width="18px" src="https://dbdb.io/media/logos/nedb.png"> NeDB
 * <img alt="Node.js" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js
 * <img alt="NW.js" width="18px" src="https://avatars2.githubusercontent.com/u/10180421?s=200&amp;v=4"> NW.js
 * <img alt="Sass" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> SASS
@@ -66,6 +65,8 @@
 * <img alt="Filezilla" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg"> Filezilla
 * <img alt="IntelliJ IDEA" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"> IntelliJ IDEA
 * <img alt="Java" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java
+* <img alt="JQuery" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"> JQuery
+* <img alt="JSON" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"> JSON
 * <img alt="KDEnlive" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Kdenlive_new_logo.png"> KDEnlive
 * <img alt="Krita" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg"> Krita
 * <img alt="MongoDB" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> MongoDB
