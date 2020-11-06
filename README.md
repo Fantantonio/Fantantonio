@@ -19,11 +19,11 @@
 
 ---
 
-### 📺 Latest Project
+### 📺 Latest Open Source Project
 
+<img alt="COVIDEO" width="18px" src="https://www.covideo.it/img/favicon/android-icon-48x48.png"> [COVIDEO](https://www.covideo.it)<br>
 😄 [Emoji List Unicode](https://github.com/Fantantonio/Emoji-List-Unicode) <br>
 <img alt="RSS Notifier" width="18px" src="https://github.com/Fantantonio/rss_notifier/blob/master/asset/img/logo.png?raw=true"> [RSS Notifier](https://github.com/Fantantonio/rss_notifier) <br>
-<img alt="COVIDEO" width="18px" src="https://www.covideo.it/img/favicon/android-icon-48x48.png"> [COVIDEO](https://www.covideo.it)<br>
 <img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/img/favicons/favicon.ico"> [PAISM](http://www.artisticoinlinesanmarco.it)
 
 ---
@@ -47,6 +47,7 @@
 * <img alt="Node.js" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js
 * <img alt="NW.js" width="18px" src="https://avatars2.githubusercontent.com/u/10180421?s=200&amp;v=4"> NW.js
 * <img alt="Sass" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> SASS
+* <img alt="Tensorflow.js" width="18px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4"> Tensorflow.js
 * <img alt="Visual Studio Code" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> Visual Studio Code
 
 ---
