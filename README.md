@@ -2,7 +2,7 @@
 
 ### I'm a Developer, figure skating Coach and Athlete
 
-* 💻 I’m currently working on a Discord.py bot with with [Google Calendar API](https://developers.google.com/calendar/v3/reference/) and [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
+* 💻 I’m currently working on a Django website [Figure Skating Stats](http://www.figureskatingstats.com)
 * 💻 I’m currently working on a big Node.js + NW.js + NeDB project [STANDBY]
 * 🎓 I’m currently completing my bachelor degree at Ca' Foscari University of Venice
 * 🤝 I’m looking to collaborate with other developers
@@ -30,6 +30,7 @@
 
 ### 🖥 Other Projects
 
+⛸ [Figure Skating Stats - Website](http://www.figureskatingstats.com)<br>
 📲 [Figure Skating Stats - Telegram Bot](https://t.me/figureskatingstats)<br>
 📱 [Figure Skating Stats - Discord Bot](https://discord.gg/pHPmwfyWTD)<br>
 <img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/img/favicons/favicon.ico"> [PAISM](http://www.artisticoinlinesanmarco.it)<br>
