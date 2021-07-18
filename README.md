@@ -60,7 +60,7 @@
 * <img alt="Filezilla" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg"> Filezilla
 * <img alt="Git" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git
 * <img alt="HTML5" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML
-* <img alt="IntelliJ IDEA" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"> IntelliJ IDEA
+* <img alt="IntelliJ IDEA" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"> IntelliJ IDEA
 * <img alt="Java" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java
 * <img alt="JavaScript" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript
 * <img alt="JQuery" width="18px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"> JQuery
