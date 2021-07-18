@@ -2,11 +2,11 @@
 
 ### I'm a Developer, figure skating Coach and Athlete
 
+* 🎓 I have a bachelor degree in computer science at Ca' Foscari University of Venice 
+* 💻 I’m currently working on a big Node.js + NW.js + NeDB project
 * 💻 I’m currently working on a Django website [Figure Skating Stats](http://www.figureskatingstats.com)
-* 💻 I’m currently working on a big Node.js + NW.js + NeDB project [STANDBY]
-* 🎓 I’m currently completing my bachelor degree at Ca' Foscari University of Venice
 * 🤝 I’m looking to collaborate with other developers
-* 📆 2021 Goals: Get the degree and make working experiences
+* 📆 2021 Goals: Get the degree \[DONE\] and make working experiences \[DONE\]
 * 🏅 Fun fact: I won four World Championships medals and I'm two times European and National Champion (Inline Figure Skating)
 
 ### ✉️ Connect with me:
@@ -33,7 +33,7 @@
 ⛸ [Figure Skating Stats - Website](http://www.figureskatingstats.com)<br>
 📲 [Figure Skating Stats - Telegram Bot](https://t.me/figureskatingstats)<br>
 📱 [Figure Skating Stats - Discord Bot](https://discord.gg/pHPmwfyWTD)<br>
-<img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/img/favicons/favicon.ico"> [PAISM](http://www.artisticoinlinesanmarco.it)<br>
+<img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/wp-content/uploads/2021/07/Logo_32x32.png"> [PAISM](http://www.artisticoinlinesanmarco.it)<br>
 
 ---
 
