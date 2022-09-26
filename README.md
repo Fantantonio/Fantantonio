@@ -3,16 +3,15 @@
 ### I'm a Developer, figure skating Coach and Athlete
 
 * 🎓 I have a bachelor degree in computer science at Ca' Foscari University of Venice 
-* 💻 I’m currently working on a NW.js (Node.js + Chromium) + NeDB project and a Django one
-* 🏅 Fun fact: I won five World Championships medals and I'm three times European and two times National Champion (Inline Figure Skating)
+* 💻 I’m currently working on a Django project and a Unity/C# one
+* 🏅 Fun fact: I won five World Championships medals and I'm four times European and three times National Champion (Inline Figure Skating)
 
 ### ✉️ Connect with me:
 
-[![](https://img.shields.io/badge/-youtube-ff0000?style=flat-square)](https://www.youtube.com/channel/UC1nY3r2ua2XbtWBBJk3Ki-w)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/AntonioPanfili)
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/antonio-panfili/)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/AntonioPanfili)
+[![](https://img.shields.io/badge/-youtube-ff0000?style=flat-square)](https://www.youtube.com/channel/UC1nY3r2ua2XbtWBBJk3Ki-w)
 [![](https://img.shields.io/badge/-instagram-c32aa3?style=flat-square)](https://www.instagram.com/antonio_panfili/)
-[![](https://img.shields.io/badge/-tiktok-ee1d52?style=flat-square)](https://www.tiktok.com/@apfantantonio)
 <br>
 
 ---
@@ -21,8 +20,6 @@
 
 <img alt="COVIDEO" width="18px" src="https://www.covideo.it/img/favicon/android-icon-48x48.png"> [COVIDEO](https://www.covideo.it)<br>
 ⛸ [Figure Skating Stats - Website](http://www.figureskatingstats.com)<br>
-📲 [Figure Skating Stats - Telegram Bot](https://t.me/figureskatingstats)<br>
-📱 [Figure Skating Stats - Discord Bot](https://discord.gg/pHPmwfyWTD)<br>
 <img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/wp-content/uploads/2021/07/Logo_32x32.png"> [PAISM](http://www.artisticoinlinesanmarco.it)<br>
 😄 [Emoji List Unicode](https://github.com/Fantantonio/Emoji-List-Unicode) <br>
 <img alt="RSS Notifier" width="18px" src="https://github.com/Fantantonio/rss_notifier/blob/master/asset/img/logo.png?raw=true"> [RSS Notifier](https://github.com/Fantantonio/rss_notifier)<br>
