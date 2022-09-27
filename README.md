@@ -43,7 +43,7 @@
 
 [![Fantantonio's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Fantantonio&theme=algolia)](https://github-readme-streak-stats.herokuapp.com/?user=Fantantonio&theme=algolia)
 [![Fantantonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fantantonio&show_icons=true&count_private=true&theme=algolia)](https://github-readme-stats.vercel.app/api?username=Fantantonio&show_icons=true&count_private=true&theme=algolia)
-[![Fantantonio's most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX&langs_count=10)
+[![Fantantonio's most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX,C%2B%2B&langs_count=15)](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX,C%2B%2B&langs_count=15)
 
 <br>
 <br>
