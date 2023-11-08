@@ -1,10 +1,10 @@
 ## Hi there, I'm Antonio Panfili - aka Fantantonio 👋
 
-### I'm a Developer, figure skating Coach and Athlete
+### I'm a Developer, inline figure skating and figure skating coach
 
 * 🎓 I have a bachelor degree in computer science at Ca' Foscari University of Venice 
-* 💻 I’m currently working on a Django project and a Unity/C# one
-* 🏅 Fun fact: I won five World Championships medals and I'm four times European and three times National Champion (Inline Figure Skating)
+* 💻 I’m currently working on a Django project
+* 🏅 Fun fact: I won seven World Championships medals and I'm five times European and four times National Champion (Inline Figure Skating)
 
 ### ✉️ Connect with me:
 
