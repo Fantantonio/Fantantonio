@@ -3,7 +3,7 @@
 ### I'm a Developer, inline figure skating and figure skating coach
 
 * 🎓 I have a bachelor degree in computer science at Ca' Foscari University of Venice 
-* 💻 I’m currently working on a Django project
+* 💻 I’m currently working with Django and NW.js
 * 🏅 Fun fact: I won seven World Championships medals and I'm five times European and four times National Champion (Inline Figure Skating)
 
 ### ✉️ Connect with me:
@@ -19,10 +19,9 @@
 ### 📺 Some of my Projects
 
 <img alt="COVIDEO" width="18px" src="https://www.covideo.it/img/favicon/android-icon-48x48.png"> [COVIDEO](https://www.covideo.it)<br>
-⛸ [Figure Skating Stats - Website](http://www.figureskatingstats.com)<br>
-<img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/wp-content/uploads/2021/07/Logo_32x32.png"> [PAISM](http://www.artisticoinlinesanmarco.it)<br>
-😄 [Emoji List Unicode](https://github.com/Fantantonio/Emoji-List-Unicode) <br>
-<img alt="RSS Notifier" width="18px" src="https://github.com/Fantantonio/rss_notifier/blob/master/asset/img/logo.png?raw=true"> [RSS Notifier](https://github.com/Fantantonio/rss_notifier)<br>
+⛸ [Figure Skating Stats](http://www.figureskatingstats.com)<br>
+<img alt="PAISM" width="18px" src="http://www.artisticoinlinesanmarco.it/wp-content/uploads/2021/07/Logo_32x32.png"> [PAISM](http://www.artisticoinlinesanmarco.it)<br><br>
+🌎[see more on my website](https://www.antoniopanfili.com)
 
 ---
 
@@ -41,9 +40,11 @@
 
 ###  📊 Public contribute
 
-[![Fantantonio's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=Fantantonio&theme=algolia)](https://github-readme-streak-stats.herokuapp.com/?user=Fantantonio&theme=algolia)
+[![Fantantonio's Github streak](https://github-readme-streak-stats.herokuapp.com?user=Fantantonio&theme=algolia)](https://git.io/streak-stats)
+<br>
 [![Fantantonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fantantonio&show_icons=true&count_private=true&theme=algolia)](https://github-readme-stats.vercel.app/api?username=Fantantonio&show_icons=true&count_private=true&theme=algolia)
-[![Fantantonio's most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX,C%2B%2B&langs_count=15)](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX,C%2B%2B&langs_count=15)
+<br>
+[![Fantantonio's most used languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX,C%2B%2B,GLSL&langs_count=15)](https://github-readme-stats.vercel.app/api/top-langs/?username=Fantantonio&layout=compact&theme=algolia&hide=TeX,C%2B%2B,GLSL&langs_count=15)
 
 <br>
 <br>
